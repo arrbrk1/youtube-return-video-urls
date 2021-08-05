@@ -1,4 +1,3 @@
-
 const arr = []
 const links = document.querySelectorAll("a#video-title")
 for(let i = 0; i < links.length; i++){
